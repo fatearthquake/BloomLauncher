@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Bloom Launcher artwork. Copyright (C) 2026 Bloom Launcher Contributors. GPL-3.0-only -->
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="36 36 184 184">
+<defs>
+<linearGradient id="bloomBg" x1="40" y1="12" x2="216" y2="244" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#43226b"/><stop offset="0.55" stop-color="#1e1238"/><stop offset="1" stop-color="#0d0918"/>
+</linearGradient>
+<radialGradient id="bloomGlow" cx="128" cy="128" r="104" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#ff5fa2" stop-opacity="0.55"/><stop offset="0.55" stop-color="#ff5fa2" stop-opacity="0.16"/><stop offset="1" stop-color="#ff5fa2" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="bloomPetal" x1="128" y1="44" x2="128" y2="128" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#ffe9f4"/><stop offset="0.45" stop-color="#ffa3d0"/><stop offset="1" stop-color="#ff4f9a"/>
+</linearGradient>
+<radialGradient id="bloomCore" cx="123" cy="122" r="24" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#fff8cf"/><stop offset="0.55" stop-color="#ffd34f"/><stop offset="1" stop-color="#ff9f1c"/>
+</radialGradient>
+</defs>
+<g transform="rotate(0 128 128)">
+<path d="M128 128 C103 113 89 85 97 61 C101 49 111 43 119 48 L128 57 L137 48 C145 43 155 49 159 61 C167 85 153 113 128 128 Z" fill="url(#bloomPetal)" stroke="#c2357a" stroke-opacity="0.45" stroke-width="1.6" stroke-linejoin="round"/>
+<path d="M128 118 L128 72 M128 102 L119 84 M128 102 L137 84" fill="none" stroke="#ff4f9a" stroke-opacity="0.35" stroke-width="2.4" stroke-linecap="round"/>
+</g>
+<g transform="rotate(72 128 128)">
+<path d="M128 128 C103 113 89 85 97 61 C101 49 111 43 119 48 L128 57 L137 48 C145 43 155 49 159 61 C167 85 153 113 128 128 Z" fill="url(#bloomPetal)" stroke="#c2357a" stroke-opacity="0.45" stroke-width="1.6" stroke-linejoin="round"/>
+<path d="M128 118 L128 72 M128 102 L119 84 M128 102 L137 84" fill="none" stroke="#ff4f9a" stroke-opacity="0.35" stroke-width="2.4" stroke-linecap="round"/>
+</g>
+<g transform="rotate(144 128 128)">
+<path d="M128 128 C103 113 89 85 97 61 C101 49 111 43 119 48 L128 57 L137 48 C145 43 155 49 159 61 C167 85 153 113 128 128 Z" fill="url(#bloomPetal)" stroke="#c2357a" stroke-opacity="0.45" stroke-width="1.6" stroke-linejoin="round"/>
+<path d="M128 118 L128 72 M128 102 L119 84 M128 102 L137 84" fill="none" stroke="#ff4f9a" stroke-opacity="0.35" stroke-width="2.4" stroke-linecap="round"/>
+</g>
+<g transform="rotate(216 128 128)">
+<path d="M128 128 C103 113 89 85 97 61 C101 49 111 43 119 48 L128 57 L137 48 C145 43 155 49 159 61 C167 85 153 113 128 128 Z" fill="url(#bloomPetal)" stroke="#c2357a" stroke-opacity="0.45" stroke-width="1.6" stroke-linejoin="round"/>
+<path d="M128 118 L128 72 M128 102 L119 84 M128 102 L137 84" fill="none" stroke="#ff4f9a" stroke-opacity="0.35" stroke-width="2.4" stroke-linecap="round"/>
+</g>
+<g transform="rotate(288 128 128)">
+<path d="M128 128 C103 113 89 85 97 61 C101 49 111 43 119 48 L128 57 L137 48 C145 43 155 49 159 61 C167 85 153 113 128 128 Z" fill="url(#bloomPetal)" stroke="#c2357a" stroke-opacity="0.45" stroke-width="1.6" stroke-linejoin="round"/>
+<path d="M128 118 L128 72 M128 102 L119 84 M128 102 L137 84" fill="none" stroke="#ff4f9a" stroke-opacity="0.35" stroke-width="2.4" stroke-linecap="round"/>
+</g>
+<path d="M135.05 118.29 L147.98 100.49" fill="none" stroke="#ffd34f" stroke-width="2.6" stroke-linecap="round"/>
+<circle cx="147.98" cy="100.49" r="4.2" fill="#fff0a8"/>
+<path d="M139.41 131.71 L160.34 138.51" fill="none" stroke="#ffd34f" stroke-width="2.6" stroke-linecap="round"/>
+<circle cx="160.34" cy="138.51" r="4.2" fill="#fff0a8"/>
+<path d="M128.00 140.00 L128.00 162.00" fill="none" stroke="#ffd34f" stroke-width="2.6" stroke-linecap="round"/>
+<circle cx="128.00" cy="162.00" r="4.2" fill="#fff0a8"/>
+<path d="M116.59 131.71 L95.66 138.51" fill="none" stroke="#ffd34f" stroke-width="2.6" stroke-linecap="round"/>
+<circle cx="95.66" cy="138.51" r="4.2" fill="#fff0a8"/>
+<path d="M120.95 118.29 L108.02 100.49" fill="none" stroke="#ffd34f" stroke-width="2.6" stroke-linecap="round"/>
+<circle cx="108.02" cy="100.49" r="4.2" fill="#fff0a8"/>
+<circle cx="128" cy="128" r="20" fill="url(#bloomCore)"/>
+<circle cx="121" cy="121" r="6" fill="#ffffff" fill-opacity="0.55"/>
+</svg>

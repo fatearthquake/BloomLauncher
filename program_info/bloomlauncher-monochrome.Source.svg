@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Bloom Launcher artwork. Copyright (C) 2026 Bloom Launcher Contributors. GPL-3.0-only -->
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="36 36 184 184">
+<defs>
+
+</defs>
+<g transform="rotate(0 128 128)">
+<path d="M128 128 C103 113 89 85 97 61 C101 49 111 43 119 48 L128 57 L137 48 C145 43 155 49 159 61 C167 85 153 113 128 128 Z" fill="#000000"/>
+</g>
+<g transform="rotate(72 128 128)">
+<path d="M128 128 C103 113 89 85 97 61 C101 49 111 43 119 48 L128 57 L137 48 C145 43 155 49 159 61 C167 85 153 113 128 128 Z" fill="#000000"/>
+</g>
+<g transform="rotate(144 128 128)">
+<path d="M128 128 C103 113 89 85 97 61 C101 49 111 43 119 48 L128 57 L137 48 C145 43 155 49 159 61 C167 85 153 113 128 128 Z" fill="#000000"/>
+</g>
+<g transform="rotate(216 128 128)">
+<path d="M128 128 C103 113 89 85 97 61 C101 49 111 43 119 48 L128 57 L137 48 C145 43 155 49 159 61 C167 85 153 113 128 128 Z" fill="#000000"/>
+</g>
+<g transform="rotate(288 128 128)">
+<path d="M128 128 C103 113 89 85 97 61 C101 49 111 43 119 48 L128 57 L137 48 C145 43 155 49 159 61 C167 85 153 113 128 128 Z" fill="#000000"/>
+</g>
+<circle cx="128" cy="128" r="20" fill="#000000"/>
+</svg>
